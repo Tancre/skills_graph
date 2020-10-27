@@ -1,0 +1,738 @@
+{
+"data": {
+    "nodes": [{
+        "ID": "1",
+        "LABEL": "HTML",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 5000,
+        "x":833,"y":488,"fixed":1
+    },
+    {
+        "ID": "2",
+        "LABEL": "CSS",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 5000,
+        "x":767,"y":488,"fixed":1
+    },
+    {
+        "ID": "3",
+        "LABEL": "Bootstrap",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 2000,
+        "x":554,"y":388
+    },
+    {
+        "ID": "4",
+        "LABEL": "Approaches",
+        "COLORVALUE": "black",
+        "COLORLABEL": " ",
+        "SIZEVALUE": 0,
+        "x":597,"y":229
+    },
+    {
+        "ID": "5",
+        "LABEL": "Cross-browser compatibility",
+        "COLORVALUE": "red",
+        "COLORLABEL": "Appraches & Methodologies",
+        "SIZEVALUE": 5000,
+        "x":542,"y":143
+    },
+    {
+        "ID": "6",
+        "LABEL": "Responsive web",
+        "COLORVALUE": "red",
+        "COLORLABEL": "Appraches & Methodologies",
+        "SIZEVALUE": 5000,
+        "x":613,"y":163
+    },
+    {
+        "ID": "7",
+        "LABEL": "Methodologies",
+        "COLORVALUE": "black",
+        "COLORLABEL": " ",
+        "SIZEVALUE": 0,
+        "x":503,"y":258
+    },
+    {
+        "ID": "8",
+        "LABEL": "BEM",
+        "COLORVALUE": "red",
+        "COLORLABEL": "Appraches & Methodologies",
+        "SIZEVALUE": 5000,
+        "x":440,"y":191
+    },
+    {
+        "ID": "9",
+        "LABEL": "SUITCSS",
+        "COLORVALUE": "red",
+        "COLORLABEL": "Appraches & Methodologies",
+        "SIZEVALUE": 5000,
+        "x":334,"y":245
+    },
+    {
+        "ID": "10",
+        "LABEL": "OOCSS",
+        "COLORVALUE": "red",
+        "COLORLABEL": "Appraches & Methodologies",
+        "SIZEVALUE": 5000,
+        "x":389,"y":218
+    },
+    {
+        "ID": "11",
+        "LABEL": "SMACSS",
+        "COLORVALUE": "red",
+        "COLORLABEL": "Appraches & Methodologies",
+        "SIZEVALUE": 5000,
+        "x":280,"y":269
+    },
+    {
+        "ID": "12",
+        "LABEL": "Preprocessors",
+        "COLORVALUE": "black",
+        "COLORLABEL": " ",
+        "SIZEVALUE": 0,
+        "x":400,"y":344
+    },
+    {
+        "ID": "13",
+        "LABEL": "SASS/SCSS",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 5000,
+        "x":388,"y":433
+    },
+    {
+        "ID": "14",
+        "LABEL": "Less",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 2000,
+        "x":450,"y":435
+    },
+    {
+        "ID": "15",
+        "LABEL": "Post CSS",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 5000,
+        "x":324,"y":405
+    },
+    {
+        "ID": "16",
+        "LABEL": "SVG",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 2000,
+        "x":634,"y":414
+    },
+    {
+        "ID": "17",
+        "LABEL": "D3.js",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 1000,
+        "x":937,"y":415
+    },
+    {
+        "ID": "18",
+        "LABEL": "JS",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 5000,
+        "x":899,"y":488,"fixed":1
+    },
+    {
+        "ID": "19",
+        "LABEL": "ES6",
+        "COLORVALUE": "red",
+        "COLORLABEL": "Appraches & Methodologies",
+        "SIZEVALUE": 5000,
+        "x":1038,"y":167
+    },
+    {
+        "ID": "20",
+        "LABEL": "Gulp",
+        "COLORVALUE": "yellow",
+        "COLORLABEL": "Workflow",
+        "SIZEVALUE": 5000,
+        "x":1207,"y":236
+    },
+    {
+        "ID": "21",
+        "LABEL": "Node.js",
+        "COLORVALUE": "yellow",
+        "COLORLABEL": "Workflow",
+        "SIZEVALUE": 2000,
+        "x":1080,"y":310
+    },
+    {
+        "ID": "22",
+        "LABEL": "Framework",
+        "COLORVALUE": "black",
+        "COLORLABEL": " ",
+        "SIZEVALUE": 0,
+        "x":995,"y":336
+    },
+    {
+        "ID": "23",
+        "LABEL": "React",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 100,
+        "x":1122,"y":366
+    },
+    {
+        "ID": "24",
+        "LABEL": "AngularJS",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 100,
+        "x":1169,"y":404
+    },
+    {
+        "ID": "25",
+        "LABEL": "Webpack",
+        "COLORVALUE": "yellow",
+        "COLORLABEL": "Workflow",
+        "SIZEVALUE": 2000,
+        "x":1089,"y":226
+    },
+    {
+        "ID": "26",
+        "LABEL": "Babel",
+        "COLORVALUE": "yellow",
+        "COLORLABEL": "Workflow",
+        "SIZEVALUE": 2000,
+        "x":1154,"y":172
+    },
+    {
+        "ID": "27",
+        "LABEL": "Libraries",
+        "COLORVALUE": "black",
+        "COLORLABEL": " ",
+        "SIZEVALUE": 0,
+        "x":984,"y":372
+    },
+    {
+        "ID": "28",
+        "LABEL": "Standard",
+        "COLORVALUE": "black",
+        "COLORLABEL": " ",
+        "SIZEVALUE": 0,
+        "x":956,"y":215
+    },
+    {
+        "ID": "29",
+        "LABEL": "ES5",
+        "COLORVALUE": "red",
+        "COLORLABEL": "Appraches & Methodologies",
+        "SIZEVALUE": 5000,
+        "x":981,"y":155
+    },
+    {
+        "ID": "30",
+        "LABEL": "NPM",
+        "COLORVALUE": "yellow",
+        "COLORLABEL": "Workflow",
+        "SIZEVALUE": 2000,
+        "x":1151,"y":304
+    },
+    {
+        "ID": "31",
+        "LABEL": "Jquery",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 5000,
+        "x":893,"y":374
+    },
+    {
+        "ID": "32",
+        "LABEL": "P5.js",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 3000,
+        "x":1051,"y":492
+    },
+    {
+        "ID": "33",
+        "LABEL": "Processing",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 2000,
+        "x":986,"y":492
+    },
+    {
+        "ID": "34",
+        "LABEL": "Wiring",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 2000,
+        "x":1060,"y":768,"fixed":1
+    },
+    {
+        "ID": "35",
+        "LABEL": "Arduino",
+        "COLORVALUE": "purple",
+        "COLORLABEL": "OS & Microcontrollers",
+        "SIZEVALUE": 2000,
+        "x":985,"y":819,"fixed":1
+    },
+    {
+        "ID": "36",
+        "LABEL": "Three.js",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 100,
+        "x":1095,"y":438
+    },
+    {
+        "ID": "37",
+        "LABEL": "Aframe",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 100,
+        "x":1136,"y":464
+    },
+    {
+        "ID": "38",
+        "LABEL": "Leaflet",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 2000,
+        "x":1155,"y":524
+    },
+    // {
+    //     "ID": "39",
+    //     "LABEL": "IoT",
+    //     "COLORVALUE": "blue",
+    //     "COLORLABEL": "Expert",
+    //     "SIZEVALUE": 2000
+    // },
+    {
+        "ID": "40",
+        "LABEL": "Raspberyy Pi",
+        "COLORVALUE": "purple",
+        "COLORLABEL": "OS & Microcontrollers",
+        "SIZEVALUE": 3000,
+        "x":910,"y":820,"fixed":1
+    },
+    {
+        "ID": "41",
+        "LABEL": "Linux",
+        "COLORVALUE": "purple",
+        "COLORLABEL": "OS & Microcontrollers",
+        "SIZEVALUE": 3000,
+        "x":899,"y":611,"fixed":1
+    },
+    {
+        "ID": "42",
+        "LABEL": "Bash Script",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 100,
+        "x":819,"y":567
+    },
+    {
+        "ID": "43",
+        "LABEL": "Jekyll",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 5000,
+        "x":635,"y":628
+    },
+    {
+        "ID": "44",
+        "LABEL": "Ruby",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 100,
+        "x":767,"y":733,"fixed":1
+    },
+    {
+        "ID": "45",
+        "LABEL": "Ruby On Rail",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 100,
+        "x":717,"y":673
+    },
+    {
+        "ID": "46",
+        "LABEL": "Python",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 2000,
+        "x":767,"y":611,"fixed":1
+    },
+    {
+        "ID": "47",
+        "LABEL": "Flask",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 3000,
+        "x":616,"y":536
+    },
+    {
+        "ID": "48",
+        "LABEL": "Jinja",
+        "COLORVALUE": "orange",
+        "COLORLABEL": "Frameworks & Libraries",
+        "SIZEVALUE": 5000,
+        "x":523,"y":607
+    },
+    // {
+    //     "ID": "49",
+    //     "LABEL": "Machine Learning",
+    //     "COLORVALUE": "blue",
+    //     "COLORLABEL": "Expert",
+    //     "SIZEVALUE": 2000
+    // },
+    // {
+    //     "ID": "50",
+    //     "LABEL": "AI",
+    //     "COLORVALUE": "blue",
+    //     "COLORLABEL": "Expert",
+    //     "SIZEVALUE": 2000
+    // },
+    {
+        "ID": "51",
+        "LABEL": "Apache 2",
+        "COLORVALUE": "pink",
+        "COLORLABEL": "Server",
+        "SIZEVALUE": 3000,
+        "x":833,"y":673,"fixed":1
+    },
+    {
+        "ID": "52",
+        "LABEL": "Nginx",
+        "COLORVALUE": "pink",
+        "COLORLABEL": "Server",
+        "SIZEVALUE": 3000,
+        "x":984,"y":514
+    },
+    {
+        "ID": "53",
+        "LABEL": "Regex",
+        "COLORVALUE": "limegreen",
+        "COLORLABEL": "Languages",
+        "SIZEVALUE": 2000,
+        "x":970,"y":631,"fixed":1
+    },
+    // {
+    //     "ID": "54",
+    //     "LABEL": "Json",
+    //     "COLORVALUE": "grey",
+    //     "COLORLABEL": "Data",
+    //     "SIZEVALUE": 2000,
+    //     "x":1261,"y":481,"fixed":1
+    // },
+    // {
+    //     "ID": "55",
+    //     "LABEL": "Yaml",
+    //     "COLORVALUE": "grey",
+    //     "COLORLABEL": "Data",
+    //     "SIZEVALUE": 2000,
+    //     "x":1293,"y":505,"fixed":1
+    // },
+    // {
+    //     "ID": "56",
+    //     "LABEL": "CSV",
+    //     "COLORVALUE": "grey",
+    //     "COLORLABEL": "Data",
+    //     "SIZEVALUE": 2000,
+    //     "x":1324,"y":532,"fixed":1
+    // },
+    {
+        "ID": "57",
+        "LABEL": "GIT",
+        "COLORVALUE": "yellow",
+        "COLORLABEL": "Workflow",
+        "SIZEVALUE": 5000,
+        "x":833,"y":572,"fixed":1
+    },
+    {
+        "ID": "58",
+        "LABEL": "Workflow",
+        "COLORVALUE": "black",
+        "COLORLABEL": " ",
+        "SIZEVALUE": 0
+    }
+],
+
+"links": [
+    {
+        "FROMID": "2",
+        "TOID": "3",
+        "STYLE": "solid",
+        "LABEL": "framework"
+    },
+    {
+        "FROMID": "2",
+        "TOID": "4",
+        "STYLE": "solid",
+        "LABEL": "approaches"
+    },
+    {
+        "FROMID": "4",
+        "TOID": "5",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "4",
+        "TOID": "6",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "2",
+        "TOID": "7",
+        "STYLE": "solid",
+        "LABEL": "methodologies"
+    },
+    {
+        "FROMID": "7",
+        "TOID": "8",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "7",
+        "TOID": "9",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "7",
+        "TOID": "10",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "7",
+        "TOID": "11",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "2",
+        "TOID": "12",
+        "STYLE": "solid",
+        "LABEL": "Preprocessors"
+    },
+    {
+        "FROMID": "12",
+        "TOID": "13",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "12",
+        "TOID": "14",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "12",
+        "TOID": "15",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "2",
+        "TOID": "16",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "18",
+        "TOID": "28",
+        "STYLE": "solid",
+        "LABEL": "Standard"
+    },
+    {
+        "FROMID": "28",
+        "TOID": "19",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "28",
+        "TOID": "29",
+        "STYLE": "solid"
+    },
+    // {
+    //     "FROMID": "18",
+    //     "TOID": "20",
+    //     "STYLE": "solid",
+    //     "LABEL": "Task Runner"
+    // },
+    // {
+    //     "FROMID": "18",
+    //     "TOID": "21",
+    //     "STYLE": "solid",
+    //     "LABEL": "Runtime Environment"
+    // },
+    {
+        "FROMID": "18",
+        "TOID": "22",
+        "STYLE": "solid",
+        "LABEL": "Framework"
+    },
+    {
+        "FROMID": "22",
+        "TOID": "23",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "22",
+        "TOID": "24",
+        "STYLE": "solid"
+    },
+    // {
+    //     "FROMID": "18",
+    //     "TOID": "25",
+    //     "STYLE": "solid",
+    //     "LABEL": "Module bundler"
+    // },
+    {
+        "FROMID": "25",
+        "TOID": "26",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "18",
+        "TOID": "27",
+        "STYLE": "solid",
+        "LABEL": "Libraries"
+    },
+    {
+        "FROMID": "19",
+        "TOID": "26",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "21",
+        "TOID": "30",
+        "STYLE": "solid",
+        "LABEL": "Package Manager"
+    },
+    {
+        "FROMID": "27",
+        "TOID": "17",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "27",
+        "TOID": "17",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "27",
+        "TOID": "32",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "27",
+        "TOID": "36",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "27",
+        "TOID": "38",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "36",
+        "TOID": "37",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "32",
+        "TOID": "33",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "33",
+        "TOID": "34",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "34",
+        "TOID": "35",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "35",
+        "TOID": "39",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "41",
+        "TOID": "40",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "41",
+        "TOID": "42",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "40",
+        "TOID": "39",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "43",
+        "TOID": "44",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "44",
+        "TOID": "45",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "46",
+        "TOID": "47",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "47",
+        "TOID": "48",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "46",
+        "TOID": "49",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "40",
+        "TOID": "50",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "51",
+        "TOID": "52",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "27",
+        "TOID": "31",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "18",
+        "TOID": "58",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "58",
+        "TOID": "20",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "58",
+        "TOID": "21",
+        "STYLE": "solid"
+    },
+    {
+        "FROMID": "58",
+        "TOID": "25",
+        "STYLE": "solid"
+    }
+]}
+}
